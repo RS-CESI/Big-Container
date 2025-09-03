@@ -1,0 +1,9 @@
+[submodule ".app-web"]
+	path = .app-web
+	url = https://github.com/RS-CESI/app-web.git
+[submodule ".app-mobile"]
+	path = .app-mobile
+	url = https://github.com/RS-CESI/app-mobile.git
+[submodule ".api-laravel"]
+	path = .api-laravel
+	url = https://github.com/RS-CESI/api-laravel.git
